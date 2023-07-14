@@ -51,7 +51,6 @@ menu:
   Home: /
   Archives: /archives
 rss: /atom.xml
-banner: images/banner.jpg
 subtitle: This a subtitle
 
 # Content
@@ -88,7 +87,6 @@ twitter:
 
 - **menu** - Navigation menu
 - **rss** - RSS link
-- **banner** - Path of title banner image of page top
 - **excerpt_link** - "Read More" link at the bottom of excerpted articles. `false` to hide the link.
 - **fancybox** - Enable [Fancybox]
 - **recent_posts_limits** - How many posts display in Home page.
